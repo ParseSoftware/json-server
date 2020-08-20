@@ -2,7 +2,7 @@
   "clinicTimeInfo": {
     "waitTimeMinutes": "90",
     "lastUpdated": "2020-08-20T10:28:07-05:00",
-    "isClosing": false,
+    "isClosing": true,
     "isOpen": true
   }
 }
